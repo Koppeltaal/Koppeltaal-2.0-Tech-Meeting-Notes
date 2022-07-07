@@ -1,7 +1,10 @@
 # Memo
 
 
-## Advies leveranciers koppeltaal 2.0 inzake de koppeltaal launch
+## Advies technische kopgroep leveranciers koppeltaal 2.0 inzake de koppeltaal launch
+
+### Aanwezig
+Jan-Wijbrand Kolman, Theo Stolker, Joris Scharp en Roland Groen
 
 
 ## Inleiding
