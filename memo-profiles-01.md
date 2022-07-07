@@ -1,8 +1,10 @@
 # MEMO
 
 
-##  Advies leveranciers betreffende koppeltaal FHIR profiel (-en)
+##  Advies technische kopgroep Koppeltaal 2.0 leveranciers betreffende koppeltaal FHIR profiel (-en)
 
+### Aanwezig
+Jan-Wijbrand Kolman, Theo Stolker, Joris Scharp en Roland Groen
 
 ## Inleiding
 
